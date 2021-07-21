@@ -17,9 +17,9 @@
                 industry. Lorem Ipsum has been the industry's standard dummy
                 since 1500s
               </p>
-              <button class="btn btn-lg btn-success">
+              <router-link to="/product" class="btn btn-lg btn-success">
                 Order Now <b-icon-arrow-right></b-icon-arrow-right>
-              </button>
+              </router-link>
             </div>
           </div>
         </div>

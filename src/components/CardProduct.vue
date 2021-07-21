@@ -1,5 +1,5 @@
 <template>
-  <div class="card shadow card-border" style="100%">
+  <div class="card shadow card-border mb-5" style="100%">
     <img
       :src="'images/product/' + productz.gambar"
       class="card-img-top"
