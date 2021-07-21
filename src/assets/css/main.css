@@ -19,6 +19,22 @@
     background-color: #E47006;
 }
 
+h2 {
+    line-height: 1.6;
+}
+
 .text-brown {
     color: #E47006;
+}
+
+.card-border {
+    border-radius: 15px;
+}
+
+.card-img-top {
+    border-radius: 15px 15px 0px 0px;
+}
+
+.footer-bg {
+    background-color: #E47006;;
 }
